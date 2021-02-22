@@ -1,0 +1,15 @@
+// Colors
+// Color palette
+$darkSlateGray: #314e52;
+$ivory: #f7f6e7;
+$alabaster: #e7e6e1;
+$sandyBrown: #f2a154;
+// Color palette - Variations
+$gray30: lighten($darkSlateGray, 70%);
+$gray50: lighten($darkSlateGray, 50%);
+$ivory50: lighten($ivory, 50%);
+
+// Sizes
+$fontSizeSmaller: 11px;
+$fontSizeRegular: 12px;
+$fontSizeMedium: 14px;

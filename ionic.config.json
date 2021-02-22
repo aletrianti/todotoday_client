@@ -1,5 +1,5 @@
 {
-  "name": "todotoday",
+  "name": "todotoday_client",
   "integrations": {
     "capacitor": {}
   },
