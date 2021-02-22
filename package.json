@@ -65,5 +65,7 @@
     "@capacitor/cli": "2.4.6",
     "prettier": "^2.2.1"
   },
-  "description": "A simple todo app built with Ionic (React)."
+  "description": "A simple todo app built with Ionic (React).",
+  "author": "Alessia Trianti",
+  "license": "MIT"
 }
