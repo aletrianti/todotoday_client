@@ -5,11 +5,18 @@ $ivory: #f7f6e7;
 $alabaster: #e7e6e1;
 $sandyBrown: #f2a154;
 // Color palette - Variations
+$grayText: #94a29d;
 $gray30: lighten($darkSlateGray, 70%);
-$gray50: lighten($darkSlateGray, 50%);
+$gray35: lighten($darkSlateGray, 65%);
 $ivory50: lighten($ivory, 50%);
+$sandyBrown80: lighten($sandyBrown, 20%);
 
 // Sizes
 $fontSizeSmaller: 11px;
 $fontSizeRegular: 12px;
 $fontSizeMedium: 14px;
+
+// Weigths
+$fontWeightRegular: 400;
+$fontWeightMedium: 500;
+$fontWeightSemibold: 600;

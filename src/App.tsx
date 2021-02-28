@@ -18,11 +18,19 @@ import '@ionic/react/css/text-transformation.css';
 import '@ionic/react/css/flex-utils.css';
 import '@ionic/react/css/display.css';
 
+/* Routes' components */
+import Home from './pages/Home/Home';
+
+/* SCSS */
+import './App.scss';
+
 const App: React.FC = () => (
   <IonApp>
     <IonReactRouter>
       <IonRouterOutlet>
-        <Route exact path="/"></Route>
+        <Route exact path="/">
+          <Home />
+        </Route>
       </IonRouterOutlet>
     </IonReactRouter>
   </IonApp>
